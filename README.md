@@ -5,3 +5,8 @@ Through 2018, I have encountered several instances of things I knew could be don
 * Measuring the performance of your code
 * Running multiple scripts through a Master R Script
 * Error Handling using Try-Catch in R
+
+
+
+# R-Useful-Resources
+* Maps(Chloropleth) : http://eriqande.github.io/rep-res-web/lectures/making-maps-with-R.html
