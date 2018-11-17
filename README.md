@@ -10,3 +10,4 @@ Through 2018, I have encountered several instances of things I knew could be don
 
 # R-Useful-Resources
 * Maps(Chloropleth) : http://eriqande.github.io/rep-res-web/lectures/making-maps-with-R.html
+* R package 'broom' (tide results of regression): https://cran.r-project.org/web/packages/broom/vignettes/broom.html
